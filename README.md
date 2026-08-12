@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Avinash603/Problem-Solving/tree/master/0078-subsets) |
 | [0283-move-zeroes](https://github.com/Avinash603/Problem-Solving/tree/master/0283-move-zeroes) |
 | [1301-number-of-paths-with-max-score](https://github.com/Avinash603/Problem-Solving/tree/master/1301-number-of-paths-with-max-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Avinash603/Problem-Solving/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -85,4 +86,12 @@
 |  |
 | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/Avinash603/Problem-Solving/tree/master/1301-number-of-paths-with-max-score) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Avinash603/Problem-Solving/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Avinash603/Problem-Solving/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
