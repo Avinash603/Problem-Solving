@@ -95,4 +95,12 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Avinash603/Problem-Solving/tree/master/0078-subsets) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Avinash603/Problem-Solving/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Avinash603/Problem-Solving/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
