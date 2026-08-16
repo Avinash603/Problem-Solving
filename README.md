@@ -56,6 +56,7 @@
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/Avinash603/Problem-Solving/tree/master/0008-string-to-integer-atoi) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Avinash603/Problem-Solving/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
