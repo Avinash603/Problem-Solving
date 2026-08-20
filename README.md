@@ -103,4 +103,8 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Avinash603/Problem-Solving/tree/master/0050-powx-n) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Avinash603/Problem-Solving/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
