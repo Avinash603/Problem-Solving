@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Avinash603/Problem-Solving/tree/master/0011-container-with-most-water) |
 | [0078-subsets](https://github.com/Avinash603/Problem-Solving/tree/master/0078-subsets) |
 | [0283-move-zeroes](https://github.com/Avinash603/Problem-Solving/tree/master/0283-move-zeroes) |
 | [1301-number-of-paths-with-max-score](https://github.com/Avinash603/Problem-Solving/tree/master/1301-number-of-paths-with-max-score) |
@@ -14,6 +15,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Avinash603/Problem-Solving/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/Avinash603/Problem-Solving/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
@@ -48,6 +50,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Avinash603/Problem-Solving/tree/master/0011-container-with-most-water) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Avinash603/Problem-Solving/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sorting
 |  |
