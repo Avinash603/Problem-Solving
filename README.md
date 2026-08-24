@@ -6,6 +6,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Avinash603/Problem-Solving/tree/master/0011-container-with-most-water) |
 | [0078-subsets](https://github.com/Avinash603/Problem-Solving/tree/master/0078-subsets) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Avinash603/Problem-Solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0283-move-zeroes](https://github.com/Avinash603/Problem-Solving/tree/master/0283-move-zeroes) |
 | [1301-number-of-paths-with-max-score](https://github.com/Avinash603/Problem-Solving/tree/master/1301-number-of-paths-with-max-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Avinash603/Problem-Solving/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -68,6 +69,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Avinash603/Problem-Solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Avinash603/Problem-Solving/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Breadth-First Search
 |  |
