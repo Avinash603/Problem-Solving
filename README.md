@@ -17,10 +17,12 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Avinash603/Problem-Solving/tree/master/0011-container-with-most-water) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Avinash603/Problem-Solving/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/Avinash603/Problem-Solving/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Avinash603/Problem-Solving/tree/master/0160-intersection-of-two-linked-lists) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Avinash603/Problem-Solving/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Avinash603/Problem-Solving/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Avinash603/Problem-Solving/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -116,4 +118,8 @@
 | [1148-article-views-i](https://github.com/Avinash603/Problem-Solving/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/Avinash603/Problem-Solving/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Avinash603/Problem-Solving/tree/master/1757-recyclable-and-low-fat-products) |
+## Linked List
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Avinash603/Problem-Solving/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
