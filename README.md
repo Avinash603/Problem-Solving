@@ -20,6 +20,7 @@
 | [0011-container-with-most-water](https://github.com/Avinash603/Problem-Solving/tree/master/0011-container-with-most-water) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Avinash603/Problem-Solving/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/Avinash603/Problem-Solving/tree/master/0283-move-zeroes) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Avinash603/Problem-Solving/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,6 +66,7 @@
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Avinash603/Problem-Solving/tree/master/0008-string-to-integer-atoi) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Avinash603/Problem-Solving/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Avinash603/Problem-Solving/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Sliding Window
 |  |
 | ------- |
@@ -96,6 +98,7 @@
 |  |
 | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/Avinash603/Problem-Solving/tree/master/1301-number-of-paths-with-max-score) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Avinash603/Problem-Solving/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Backtracking
 |  |
 | ------- |
